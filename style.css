@@ -5,6 +5,10 @@ body {
 header{
     position: fixed;
     top: 0;
+    padding-right: 900px;
+    padding-left: 20px;
+    background-color: blueviolet;
+    margin-left: -10px;
 }
 
 #minha_foto{
@@ -22,5 +26,25 @@ header{
 }
 
 #listas{
-    margin-top: 50px;
+    margin: 20px;
+
+}
+
+#licoes_aprendidas li a, #licoes_a_aprender li a{
+    text-decoration: none;
+    color: rgb(4, 49, 2);
+    line-height: 25px;
+}
+
+#a-parte{
+    margin: 10px;
+    padding: 15px;
+    border: 3px solid black;
+    font-style: italic;
+}
+
+article{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+    font-size: medium;
 }
