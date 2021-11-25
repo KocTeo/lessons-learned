@@ -9,7 +9,8 @@ header{
 
 #minha_foto{
     width: 300px;
-    margin-top: 500px;
+    margin-top: 100px;
+    border: 2px solid blueviolet;
 }
 
 #rodape{
@@ -18,4 +19,8 @@ header{
 
 #tabela-teste, td{
     border: 1px solid black;
+}
+
+#listas{
+    margin-top: 50px;
 }
