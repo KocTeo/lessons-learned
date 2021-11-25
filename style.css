@@ -13,5 +13,9 @@ header{
 }
 
 #rodape{
-    margin-left: 800px;
+    margin-left: 750px;
+}
+
+#tabela-teste, td{
+    border: 1px solid black;
 }
