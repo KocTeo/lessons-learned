@@ -11,3 +11,7 @@ header{
     width: 300px;
     margin-top: 500px;
 }
+
+#licoes_aprendidas, #licoes_a_aprender{
+    border: 1px solid black;
+}
