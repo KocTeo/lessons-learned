@@ -38,18 +38,15 @@ header{
     line-height: 25px;
 }
 
-#a-parte{
-    padding: 15px;
-    font-style: italic;
-    border: 1px solid black;
-    float: right;
-    width: 300px;
-}
-
-article{
+div article .lado-esquerdo{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 300;
     font-size: medium;
+}
+
+div section .lado-direito{
+    display: table-cell;
     float: left;
-    width: 400px;
+    width: 200px;
+    margin-right: 50px;
 }
